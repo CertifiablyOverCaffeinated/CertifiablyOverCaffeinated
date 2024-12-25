@@ -1,5 +1,7 @@
 ## Hi there 👋
-
+## I'm a cybersecurity student currently branching out into learning GitHub!
+## A+ certified, working on Net+
+## Thanks for visiting!
 <!--
 **CertifiablyOverCaffeinated/CertifiablyOverCaffeinated** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
